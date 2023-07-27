@@ -1,0 +1,9 @@
+.redeSociais {
+    list-style: none;
+    display: flex;
+    gap: 34.62px;
+}
+
+.redeSociais li img {
+    width: 100%;
+}
